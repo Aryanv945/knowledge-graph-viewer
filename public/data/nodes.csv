@@ -1,0 +1,9 @@
+id,title,note
+1,React,"A JavaScript library for building user interfaces using components."
+2,Next.js,"React framework with SSR, routing, and API support built in."
+3,TypeScript,"Typed superset of JavaScript that compiles to plain JS."
+4,State Management,"Patterns for managing shared application state (Context, Zustand, Redux)."
+5,Component Design,"Principles for building reusable, composable UI components."
+6,Performance,"Techniques like memoization, lazy loading, and virtualization."
+7,Testing,"Unit, integration, and e2e testing strategies for frontend apps."
+8,CSS & Styling,"Styling approaches including Tailwind, CSS Modules, and styled-components."
